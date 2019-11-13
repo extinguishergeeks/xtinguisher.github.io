@@ -1,3 +1,4 @@
+# Extinguisher Geeks <img src="https://www.hrlcomp.com/wp-content/uploads/2018/08/Fire-Extinguisher-Training-1350x675.jpg" width="100">[Home](homepage.md)     [About]() [Tutorial](tutorial.md)
 ### setting up the ESP 32
 
 The ESP 32 is a microcontroller which offers wifi capacability. This blog will show how to flash and set up micropython into the ESP 32.
@@ -9,6 +10,7 @@ Next, download the file needed to flash micropython into ESP 32 at https://micro
 Next open up command prompt (CMD) and run as administor.
 
 In the CMD, type 
+
     pip3 install esptool
 
 After installation, then type this command
@@ -33,3 +35,21 @@ After that, type
 
 This will open up the rshell command line interface in your CMD
 
+Next,visit https://micropython.org/download#esp32 and download the correct firmware file for your board.
+
+Before writting the firmware,we have to erase the flash memory of esp32, check your port number again. In this case i will use COM3
+
+    esptool --chip esp32 --port COM3 erase_flash
+
+After the firmware is being installed, the device will reboot and then we are ready start our first MicroPython program.
+esptool --chip esp32 --port COM3 --baud 460800 write_flash -z 0x1000    
+
+    esptool --chip esp32 --port COM3 --baud 460800 write_flash -z 0x1000 esp32spiram-20190529-v1.11.bin
+
+
+Next connect the MicroPython repl using rshell
+    
+    rshell -p COM3 repl
+
+
+And then, your Esp32 is ready to use, enjoy with your MicroPython.
