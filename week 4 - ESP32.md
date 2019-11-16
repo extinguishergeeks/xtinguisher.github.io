@@ -1,4 +1,4 @@
-# Extinguisher Geeks <img src="https://www.hrlcomp.com/wp-content/uploads/2018/08/Fire-Extinguisher-Training-1350x675.jpg" width="100">[Home](homepage.md)     [About]() [Tutorial](tutorial.md)
+# Extinguisher Geeks <img src="https://www.hrlcomp.com/wp-content/uploads/2018/08/Fire-Extinguisher-Training-1350x675.jpg" width="100">[Home](homepage.md)     [About]() [Tutorial](week 4 - ESP32.md)
 ### setting up the ESP 32
 
 The ESP 32 is a microcontroller which offers wifi capacability. This blog will show how to flash and set up micropython into the ESP 32.
