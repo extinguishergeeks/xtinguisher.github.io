@@ -12,10 +12,10 @@ A mounting structure is also produced, with the purpose of mounting the housing 
 The robot arm is a arm kindly provided by our lecturer. It has 4 degrees of freedom. It is controlled by servo motors and linkages. 
 
 ### Torque calculations
-The torque calculations can be found on our github 
+The torque calculations can be found on our github  at: <a href="tank calculations.pptx">tank calculations.pptx</a>
 
 ### Mechanical drawings
-The mechanical drawings can be found on our github under the folder name: <a href="Tank CAD files.zip"> Tank CAD files.zip</a>
+The mechanical drawings can be found on our github at: <a href="Tank CAD files.zip"> Tank CAD files.zip</a>
 
 ### Robot arm CAD drawings
 The CAD drawing for the arm can be found at <a href="https://www.thingiverse.com/thing:993759">MeArm</a>
