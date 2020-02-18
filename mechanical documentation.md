@@ -15,5 +15,5 @@ The robot arm is a arm kindly provided by our lecturer. It has 4 degrees of free
 The torque calculations can be found on our github 
 
 ### Mechanical drawings
-The mechanical drawings can be found on our github under the folder name: <a href:Tank CAD files.zip> Tank CAD files.zip</a>
+The mechanical drawings can be found on our github under the folder name: <a href="Tank CAD files.zip"> Tank CAD files.zip</a>
 
