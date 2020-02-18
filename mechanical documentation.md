@@ -17,3 +17,6 @@ The torque calculations can be found on our github
 ### Mechanical drawings
 The mechanical drawings can be found on our github under the folder name: <a href="Tank CAD files.zip"> Tank CAD files.zip</a>
 
+### Robot arm CAD drawings
+The CAD drawing for the arm can be found at <a href="https://www.thingiverse.com/thing:993759">MeArm</a>
+
