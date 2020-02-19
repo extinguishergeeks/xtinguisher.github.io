@@ -12,7 +12,7 @@ The housing of the tank is made from pieces of 3mm acrylic plates glued together
 
 
 ### Mounting Structure
-A mounting structure is also produced, with the purpose of mounting the housing to the tracks. As the housing have a larger footprint than the track base itself, the mounting platform is desgined in a way that it serves as an adaptor to compensate the difference in footprint. The image of the mounting structure can be seen below.
+A mounting structure is also produced, with the purpose of mounting the housing to the tracks. As the housing have a larger footprint than the track base itself, the mounting platform is desgined in a way that it serves as an adaptor to compensate the difference in footprint. In terms of frabication and assembly, it is done in a similar fashion to the housing. The image of the mounting structure can be seen below.
 
 <img src="hosuing_mount.png">
 
@@ -26,10 +26,10 @@ The ESP CAM mount is used to mount the ESP camera via transition tight fit (H7/k
 
 ### Methodology to determine the effectiveness of the tank at carrying out it's intended purposes
 
-- Time taken to defuse bomb to determine the viability of the prototype
-- 2 groups of people - EOD team and normal civilians
-- If normal civilians can successfully defuse the bomb within double the time taken for the EOD team then it is successful
-- Difficult to determine via mathematical analysis due to the involvement of human factors
+- Measure the time taken to defuse bomb to determine the viability of the prototype through empirical means
+- 2 groups of people - EOD team as control and normal civilians
+- If normal civilians can successfully defuse the bomb within double the time taken for the EOD team then the tank is successful
+- It may be difficult to determine via mathematical analysis due to the involvement of human factors
 
 
 ### Motor Torque calculations
