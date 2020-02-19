@@ -30,9 +30,13 @@ The torque calculations can be found on our github  at: <a href="Tank Calculatio
 
 ### Mechanical CAD drawings
 The mechanical CAD drawings can be found on our github at: 
+
 f3d file format (for part files): <a href="tank fusion 360 part files.zip"> tank fusion 360 part files.zip</a>
+
 f3z file format (for sub assemblies): <a href="tank fusion 360 sub assembly.zip">tank fusion 360 sub assembly.zip</a>
+
 f3z file format (for full assembly): <a href="tank fusion 360 full assembly.zip">tank fusion 360 full assembly.zip</a>
+
 STEP file format: <a href="Tank STEP files.zip"> Tank STEP files.zip</a>
 
 ### Robot arm CAD drawings
