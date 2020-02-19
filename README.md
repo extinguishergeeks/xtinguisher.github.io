@@ -22,7 +22,7 @@ After a war, there are many unexploded bombs or mines leftover that may threaten
 - WiFi web control for easier training… control from phone instead of specialised panel
 
 ### Documentations
-<a href="mechanical documentations.md">mechanical documentations</a>
+<a href="mechanical documentation.md">mechanical documentations</a>
 
 The overview of our project: <a href="presentation poster.pptx">poster</a>
 
