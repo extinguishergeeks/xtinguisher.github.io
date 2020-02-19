@@ -24,8 +24,15 @@ The ESP CAM mount is used to mount the ESP camera via transition tight fit (H7/k
 
 <img src="esp cam mount.png">
 
+### Methodology to determine the effectiveness of the tank at carrying out it's intended purposes
 
-### Torque calculations
+- Time taken to defuse bomb to determine the viability of the prototype
+- 2 groups of people - EOD team and normal civilians
+- If normal civilians can successfully defuse the bomb within double the time taken for the EOD team then it is successful
+- Difficult to determine via mathematical analysis due to the involvement of human factors
+
+
+### Motor Torque calculations
 The torque calculations can be found on our github  at: <a href="Tank Calculations.pptx">Tank Calculations.pptx</a>
 
 ### Mechanical CAD drawings
