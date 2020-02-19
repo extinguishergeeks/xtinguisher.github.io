@@ -8,7 +8,9 @@ The housing of the tank is made from pieces of 3mm acrylic plates glued together
 
 
 ### Mounting Structure
-A mounting structure is also produced, with the purpose of mounting the housing to the tracks. As the housing have a larger footprint than the track base itself, the mounting platform is desgined in a way that it serves as an adaptor to compensate the difference in footprint. 
+A mounting structure is also produced, with the purpose of mounting the housing to the tracks. As the housing have a larger footprint than the track base itself, the mounting platform is desgined in a way that it serves as an adaptor to compensate the difference in footprint. The image of the mounting structure can be seen below
+
+<img src="housing_mount.png" height="500px", width="500px">
 
 ### Robot Arm
 The robot arm is a arm kindly provided by our lecturer. It has 4 degrees of freedom. It is controlled by servo motors and linkages. 
