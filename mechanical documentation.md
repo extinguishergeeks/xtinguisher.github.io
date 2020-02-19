@@ -14,7 +14,7 @@ The housing of the tank is made from pieces of 3mm acrylic plates glued together
 ### Mounting Structure
 A mounting structure is also produced, with the purpose of mounting the housing to the tracks. As the housing have a larger footprint than the track base itself, the mounting platform is desgined in a way that it serves as an adaptor to compensate the difference in footprint. The image of the mounting structure can be seen below.
 
-<img src="hosuing_mount.png" height="500" width="500">
+<img src="hosuing_mount.png">
 
 ### Robot Arm
 The robot arm is a arm kindly provided by our lecturer. It has 4 degrees of freedom. It is controlled by servo motors and linkages. 
@@ -22,7 +22,7 @@ The robot arm is a arm kindly provided by our lecturer. It has 4 degrees of free
 ### ESP CAM mount
 The ESP CAM mount is used to mount the ESP camera via transition tight fit (H7/k6). It is glued to the robot arm and it is made from a single part. The image of the ESP CAM mount can be seen below.
 
-<img src="esp cam mount.png" height="500" width="500">
+<img src="esp cam mount.png">
 
 
 ### Torque calculations
