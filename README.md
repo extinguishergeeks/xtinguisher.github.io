@@ -21,6 +21,8 @@ After a war, there are many unexploded bombs or mines leftover that may threaten
 - Camera mounted on the arm for larger field of view during operation
 - WiFi web control for easier training… control from phone instead of specialised panel
 
+### Documentations
+<a href="mechanical documentations.md">mechanical documentations</a>
 
 The overview of our project: <a href="presentation poster.pptx">poster</a>
 
