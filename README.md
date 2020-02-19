@@ -2,6 +2,8 @@
 
 ## Welcome
 
+<img src="sweaty tank render.png">
+
 This git repository serves as a platform to us to document our tank. We are working on a bomb disposal robot tank that helps war torn civilians safely and easily defuse bombs without calling in EOD teams
 
 ### Problem background
@@ -12,7 +14,7 @@ After a war, there are many unexploded bombs or mines leftover that may threaten
 
 “How are we able to assist with bomb disposal”
 
-### main features of the tank
+### Main features of the tank
 
 - Robotic arm with 4 Degrees of freedom (DOF)
 - Modular housing and design
