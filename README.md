@@ -24,5 +24,5 @@ After a war, there are many unexploded bombs or mines leftover that may threaten
 ### Documentations
 <a href="mechanical documentation.md">mechanical documentations</a>
 
-The overview of our project: <a href="presentation poster.pptx">poster</a>
+The poster that provides an overview of our project: <a href="presentation poster.pptx">poster</a>
 
