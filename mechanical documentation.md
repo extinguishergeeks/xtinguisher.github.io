@@ -19,7 +19,7 @@ A mounting structure is also produced, with the purpose of mounting the housing 
 ### Robot Arm
 The robot arm is a arm kindly provided by our lecturer. It has 4 degrees of freedom. It is controlled by servo motors and linkages. It has 4 Degrees of freedom. The design is also open source and readily available.
 
-<img src="">
+<img src="Robot arm.png">
 
 ### ESP CAM mount
 The ESP CAM mount is used to mount the ESP camera via transition tight fit (H7/k6). It is glued to the robot arm and it is made from a single part. The image of the ESP CAM mount can be seen below.
