@@ -5,6 +5,8 @@
 ### housing
 The housing of the tank is made from pieces of 3mm acrylic plates glued together. The structure is a monocoque design which helps to save weight, thus increasing the protablility and reducing the cost of production. Chloroform, a type of acrylic glue, is applied to finger joints of the each plate to reinforce the integrity of the joint. 
 
+
+
 ### Mounting Structure
 A mounting structure is also produced, with the purpose of mounting the housing to the tracks. As the housing have a larger footprint than the track base itself, the mounting platform is desgined in a way that it serves as an adaptor to compensate the difference in footprint. 
 
